@@ -81,10 +81,10 @@ https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua
 3)  Si todo se instaló correctamente, Ejecuta el programa.
 
 4)  Observa la interfaz del programa y dirígete a la opción de “Extensiones”
-* ![Interfas del VSC parte 1](images/vsc-4.png)
+* ![Interfas del VSC parte 1](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/vsc-4.png)
 
 5)  Descarga la extensión “Live Server”.
-* ![Interfas del VSC parte 2](images/vsc-5.png)
+* ![Interfas del VSC parte 2](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/vsc-5.png)
 
 6)  Listo, ya terminamos con la descarga e instalación del Visual Studio Code y su extensión “Live Server”.
 
