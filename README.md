@@ -93,29 +93,29 @@ https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua
 1) Busca el archivo ZIP que descargaste del repositorio GITHUB.
 
 2) Haz clic derecho sobre el archivo para “Extraer todo”.
-* ![Ejecucion de la parte 2](images/ejecucion-app-2.png)
+* ![Ejecucion de la parte 2](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/ejecucion-app-2.png)
 
 3) Listo ya tendrás la carpeta con los archivos de la aplicación.
-* ![Ejecucion de la parte 3](images/ejecucion-app-3.png)
+* ![Ejecucion de la parte 3](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/ejecucion-app-3.png)
 
 4) Vuelve a la interfaz del visual Studio Code.
-* ![Ejecucion de la parte 4](images/ejecucion-app-4.png)
+* ![Ejecucion de la parte 4](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/ejecucion-app-4.png)
 
 5) Seleccione la opción de “Open folder”.
-* ![Ejecucion de la parte 5](images/ejecucion-app-5.png)
+* ![Ejecucion de la parte 5](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/ejecucion-app-5.png)
 
 6) Busca la carpeta de la aplicación que extrajiste anteriormente. Y selecciona “Select folder”.
-* ![Ejecucion de la parte 6](images/ejecucion-app-6.png)
+* ![Ejecucion de la parte 6](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/ejecucion-app-6.png)
 
 7) Te aparecerá un aviso para abrir una nueva carpeta por primera vez. Haz clic sobre el botón “Yes, i trust the authors”.
-* ![Ejecucion de la parte 7](images/ejecucion-app-7.png)
+* ![Ejecucion de la parte 7](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/ejecucion-app-7.png)
 
 8) Ahora tienes acceso a todos los archivos de la aplicación.
-* ![Ejecucion de la parte 8](images/ejecucion-app-8.png)
+* ![Ejecucion de la parte 8](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/ejecucion-app-8.png)
 
 9) Lo siguiente es ejecutarlo en un navegador. Y para eso haz click en el símbolo de “Live Server” que tiene forma de antena(que se encuentra en la parte inferior derecha).
-* ![Ejecucion de la parte 9-1](images/ejecucion-app-9-1.png)
-* ![Ejecucion de la parte 9-2](images/ejecucion-app-9-2.png)
+* ![Ejecucion de la parte 9-1](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/ejecucion-app-9-1.png)
+* ![Ejecucion de la parte 9-2](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/ejecucion-app-9-2.png)
 
 10) Y listo, la aplicación se habrá ejecutado correctamente.
-* ![Ejecucion de la parte 10](images/ejecucion-app-10.png)
+* ![Ejecucion de la parte 10](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/ejecucion-app-10.png)
