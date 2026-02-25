@@ -21,7 +21,7 @@ Esta aplicación web permite generar paletas de colores dinámicas en formato HE
 
 ---
 
-# DESICIONES TECNICAS
+# DECISIONES TECNICAS
 
 1)  **Separación de responsabilidades (HTML / CSS / JS)**
 
