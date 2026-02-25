@@ -117,5 +117,5 @@ https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua
 * ![Ejecucion de la parte 9-1](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/ejecucion-app-9-1.png)
 * ![Ejecucion de la parte 9-2](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/ejecucion-app-9-2.png)
 
-10) Y listo, la aplicación se habrá ejecutado correctamente.
+10) Y listo, la aplicación se ejecutara correctamente.
 * ![Ejecucion de la parte 10](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/ejecucion-app-10.png)
