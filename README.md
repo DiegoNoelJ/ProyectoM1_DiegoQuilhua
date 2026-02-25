@@ -19,10 +19,11 @@ Esta aplicación web permite generar paletas de colores dinámicas en formato HE
 
 6)  Para generar otra paleta de colores aleatoria, repite los pasos anteriores modificando la cantidad de colores y el formato de colores que desees.
 
+---
 
 # DESICIONES TECNICAS
 
-1)  ""Separación de responsabilidades (HTML / CSS / JS)""
+1)  **Separación de responsabilidades (HTML / CSS / JS)**
 
 •  Decisión: Dividir estructura, presentación y lógica en archivos independientes.
 
@@ -30,7 +31,7 @@ Esta aplicación web permite generar paletas de colores dinámicas en formato HE
 
 •  ¿Por qué es clave?: Reduce acoplamiento, mejora mantenibilidad y permite escalar o migrar a frameworks sin reescribir todo el proyecto.
 
-2)  ""Generación dinámica del DOM""
+2)  **Generación dinámica del DOM**
 
 •  Decisión: Crear los bloques de color con createElement() en tiempo de ejecución en lugar de tenerlos definidos en HTML.
 
@@ -38,7 +39,7 @@ Esta aplicación web permite generar paletas de colores dinámicas en formato HE
 
 •  ¿Por qué es clave?: Permite que la interfaz se adapte a una cantidad variable de colores.Es la base del comportamiento dinámico de la aplicación.
 
-3)  ""Limpieza del contenedor""
+3)  **Limpieza del contenedor**
 
 •  Decisión: Reinicialización del estado del contenedor antes del renderizado
 
@@ -46,7 +47,7 @@ Esta aplicación web permite generar paletas de colores dinámicas en formato HE
 
 •  ¿Por qué es clave?: Evita acumulación de nodos en el DOM, previene fugas visuales y mantiene el render limpio en cada generación.
 
-4)  ""Soporte dual de formato (HEX / HSL) con funciones separadas""
+4)  **Soporte dual de formato (HEX / HSL) con funciones separadas**
 
 •  Decisión: Implementar funciones independientes (generarHex() y generarHsl()) y usar lógica condicional para elegir cuál ejecutar.
 
@@ -54,6 +55,7 @@ Esta aplicación web permite generar paletas de colores dinámicas en formato HE
 
 •  ¿Por qué es clave?: Mantiene el código modular, legible y escalable si se agregan nuevos formatos en el futuro.
 
+---
 
 # PASOS PARA EJECUTAR LA APLICACION
 
