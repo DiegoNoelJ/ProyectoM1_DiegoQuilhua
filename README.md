@@ -6,16 +6,16 @@ Esta aplicación web permite generar paletas de colores dinámicas en formato HE
 * ![imagen de guia para el usuario(1)](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/imagen-usuario-1.png)
 
 2)  Elegir el formato de color: HEX o HSL.
-* ![imagen de guia para el usuario(2)](images/imagen-usuario-2.png)
+* ![imagen de guia para el usuario(2)](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/imagen-usuario-2.png)
 
 3)  Hacer clic en el botón 'Generar Paleta'.
-* ![imagen de guia para el usuario(3)](images/imagen-usuario-3.png)
+* ![imagen de guia para el usuario(3)](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/imagen-usuario-3.png)
 
 4)  La paleta aparecerá automáticamente en pantalla.
-* ![imagen de guia para el usuario(4)](images/imagen-usuario-4.png)
+* ![imagen de guia para el usuario(4)](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/imagen-usuario-4.png)
 
 5)  El sistema mostrará un mensaje indicando el formato y cantidad generada.
-* ![imagen de guia para el usuario(5)](images/imagen-usuario-5.png)
+* ![imagen de guia para el usuario(5)](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/imagen-usuario-5.png)
 
 6)  Para generar otra paleta de colores aleatoria, repite los pasos anteriores modificando la cantidad de colores y el formato de colores que desees.
 
