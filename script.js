@@ -43,3 +43,4 @@ function generarPaleta() {
 }
 
 boton.addEventListener("click", generarPaleta);
+//
