@@ -3,7 +3,7 @@
 Esta aplicación web permite generar paletas de colores dinámicas en formato HEX o HSL. Incluye animaciones visuales y un fondo estilo playa con burbujas turquesa animadas. Para ejecutar la aplicación sigue los siguientes pasos:
 
 1)  Seleccionar la cantidad de colores (6, 8 o 9).
-* ![imagen de guia para el usuario(1)](images/imagen-usuario-1.png)
+* ![imagen de guia para el usuario(1)](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/imagen-usuario-1.png)
 
 2)  Elegir el formato de color: HEX o HSL.
 * ![imagen de guia para el usuario(2)](images/imagen-usuario-2.png)
