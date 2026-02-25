@@ -65,10 +65,10 @@ Esta aplicación web permite generar paletas de colores dinámicas en formato HE
 https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua
 
 2)  Dirige el cursor hacia el selector llamado “Code”, haz clic para que te muestre las opciones.
-* ![repositorio de github parte 1](images/github-2.png)
+* ![repositorio de github parte 1](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/github-2.png)
 
 3)  Mueve el cursor hacia la opción llamada “Dowload ZIP”, haz clic para descargar.
-* ![repositorio de github parte 2](images/github-3.png)
+* ![repositorio de github parte 2](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/github-3.png)
 
 4)  Listo, ya terminamos con la descarga de la aplicación. 
 
