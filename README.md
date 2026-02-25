@@ -22,7 +22,7 @@ Esta aplicación web permite generar paletas de colores dinámicas en formato HE
 
 # DESICIONES TECNICAS
 
-1)  Separación de responsabilidades (HTML / CSS / JS)
+1)  ""Separación de responsabilidades (HTML / CSS / JS)""
 
 •  Decisión: Dividir estructura, presentación y lógica en archivos independientes.
 
@@ -30,7 +30,7 @@ Esta aplicación web permite generar paletas de colores dinámicas en formato HE
 
 •  ¿Por qué es clave?: Reduce acoplamiento, mejora mantenibilidad y permite escalar o migrar a frameworks sin reescribir todo el proyecto.
 
-2)  Generación dinámica del DOM
+2)  ""Generación dinámica del DOM""
 
 •  Decisión: Crear los bloques de color con createElement() en tiempo de ejecución en lugar de tenerlos definidos en HTML.
 
@@ -38,7 +38,7 @@ Esta aplicación web permite generar paletas de colores dinámicas en formato HE
 
 •  ¿Por qué es clave?: Permite que la interfaz se adapte a una cantidad variable de colores.Es la base del comportamiento dinámico de la aplicación.
 
-3)  Limpieza del contenedor
+3)  ""Limpieza del contenedor""
 
 •  Decisión: Reinicialización del estado del contenedor antes del renderizado
 
@@ -46,7 +46,7 @@ Esta aplicación web permite generar paletas de colores dinámicas en formato HE
 
 •  ¿Por qué es clave?: Evita acumulación de nodos en el DOM, previene fugas visuales y mantiene el render limpio en cada generación.
 
-4)  Soporte dual de formato (HEX / HSL) con funciones separadas
+4)  ""Soporte dual de formato (HEX / HSL) con funciones separadas""
 
 •  Decisión: Implementar funciones independientes (generarHex() y generarHsl()) y usar lógica condicional para elegir cuál ejecutar.
 
@@ -57,7 +57,7 @@ Esta aplicación web permite generar paletas de colores dinámicas en formato HE
 
 # PASOS PARA EJECUTAR LA APLICACION
 
-# # Descargar la aplicación del repositorio de GITHUB:
+## Descargar la aplicación del repositorio de GITHUB:
 
 1) Ingresa al repositorio de github mediante este link :
 https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua
@@ -70,7 +70,7 @@ https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua
 
 4)  Listo, ya terminamos con la descarga de la aplicación. 
 
-# # Instalación del Visual Studio Code :
+## Instalación del Visual Studio Code :
 
 1)  Descarga e instala el visual Studio Code . Puedes ingresar a Google y descargarlo o puedes ingresar a este link de la página oficial: https://code.visualstudio.com/
 
@@ -86,7 +86,7 @@ https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua
 
 6)  Listo, ya terminamos con la descarga e instalación del Visual Studio Code y su extensión “Live Server”.
 
-# # Ejecución de la aplicación :
+## Ejecución de la aplicación :
 
 1) Busca el archivo ZIP que descargaste del repositorio GITHUB.
 
