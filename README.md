@@ -131,7 +131,7 @@ https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua
 
 3) Escoge el metodo que quieras para crear tu cuenta.
 
-4) Una vez creada crea un "nuevo repositorio".
+4) Una vez creada , crea un "nuevo repositorio".
 
 5) Colocale un nombre a tu repositorio , y asegurate de que sea publico.
 
