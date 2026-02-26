@@ -146,7 +146,7 @@ https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua
 2) Descarga y instala GIT siguiendo los pasos que del instalador.
  !!ATENCION!! , cuando llegues a la opcion de "Choosing the defauld editor used by GIT" , es importante que en el selector elijas la opcion de "Use Visual Studio Code as Git`s default editor". Aclarado eso , podes seguir con la instalacion.
 
-3) Listo , por ahora
+3) Listo , por ahora.
 
 ## Preparar la terminal de Visual Studio Code para ejecutar comandos:
 
@@ -166,26 +166,26 @@ Ingrésa los comandos:
 2) hacer que todos los repositorios locales empiecen en la rama main:
 * git config --global init.defaultBranch main
 
-3) Crea un repositorio local
+3) Crea un repositorio local:
 * git init
 
-4) Conecta con tu repositorio remoto
+4) Conecta con tu repositorio remoto:
 * git remote add origin https://github.com/TU-USUARIO/TU-REPOSITORIO.git
 (este link se encuentra en tu repositorio en el selector de "code")
 
-5) verifica que esté conectado correctamente.
+5) verifica que esté conectado correctamente:
 * git remote -v
 
-6) Mira los archivos de la aplicación.
+6) Mira los archivos de la aplicación:
 * git status
 
-7) selecciona todos los archivos de tu aplicación
+7) selecciona todos los archivos de tu aplicación:
 * git add .
 
-8) crea un cómmit.
+8) crea un cómmit:
 * git commit -m "(crea un cómmit muy claro)"
 
-9) Pushea tus archivos.
+9) Pushea tus archivos:
 * git push -u origin main (esto se hace una sola vez)
 * git push (esto puedes hacerlo todas las veces que quieras)
 
@@ -193,16 +193,16 @@ Ingrésa los comandos:
 
 ## Desplegar la aplicación en github Page
 Ahora y por fin vamos a desplegar la aplicación de nuestras repositorio remoto en Github Page , para eso tenemos que seguir siguientes pasos:
-1) Ve a tu repositorio en github
+1) Ve a tu repositorio en github.
 
-2) En la barra horizontal superior selecciona la opción de "Settings"
+2) En la barra horizontal superior selecciona la opción de "Settings" .
 
-3) En el menú vertical izquierdo selecciona la opción de "Pages"
+3) En el menú vertical izquierdo selecciona la opción de "Pages" .
 
-4) El texto de "Build and deployment - source" , el selector tiene que estar en "Deploy from a branch"
+4) El texto de "Build and deployment - source" , el selector tiene que estar en "Deploy from a branch" .
 
 5) Y en "Branch" , el selector de la rama tiene que estar en "main" , y el selector de folder tienen que estar en "root".
 
-6) Guardamos los cambios de Branch haciendo clic en "Save"
+6) Guardamos los cambios de Branch haciendo clic en "Save" .
 
 7) Una vez hecho todo esto si es que lo leamos hacia arriba nos aparecerá una URL que nos permitirá desplegar nuestra aplicación en internet , y esta misma podemos compartirlo con cualquier persona.
