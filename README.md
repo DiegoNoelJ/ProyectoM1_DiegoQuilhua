@@ -222,6 +222,8 @@ Ahora y por fin vamos a desplegar la aplicación de nuestras repositorio remoto 
 6) Guardamos los cambios de Branch haciendo clic en "Save" .
 * ![Despliegue de la app](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/desplegar-app-github-page-6.png)
 
-7) Una vez hecho todo esto si es que lo leamos hacia arriba nos aparecerá una URL que nos permitirá desplegar nuestra aplicación en internet , y esta misma podemos compartirlo con cualquier persona.
+7) Una vez hecho todo esto, en la parte superior de la pagina nos aparecerá una URL que nos permitirá desplegar nuestra aplicación en internet , y esta misma podemos compartirlo con cualquier persona.
 * ![Despliegue de la app](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/desplegar-app-github-page-7-1.png)
 * ![Despliegue de la app](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/desplegar-app-github-page-7-2.png)
+
+DEMOSTRACION DE LA APLICACION: https://diegonoelj.github.io/ProyectoM1_DiegoQuilhua/
