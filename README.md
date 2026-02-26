@@ -136,7 +136,7 @@ https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua
 4) Una vez creada , crea un "nuevo repositorio".
 * ![Cuenta github](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/crear-cuenta-github-4.png) 
 
-5) Colocale un nombre a tu repositorio , y asegurate de que sea publico.
+5) Colocale un nombre a tu repositorio , activa el README y asegurate de que sea publico.
 * ![Cuenta github](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/crear-cuenta-github-5.png) 
 
 6) Asegurate de que siempre este en la rama "main" .(para evitar evitar problemas de sincronizacion con GIT)
@@ -149,9 +149,13 @@ https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua
 1) Ingresa a la pagina de GIT: https://git-scm.com/
 
 2) Descarga y instala GIT siguiendo los pasos que del instalador.
- !!ATENCION!! , cuando llegues a la opcion de "Choosing the defauld editor used by GIT" , es importante que en el selector elijas la opcion de "Use Visual Studio Code as Git`s default editor". Aclarado eso , podes seguir con la instalacion.
+ !!ATENCION!! , cuando llegues a la opcion de "Choosing the defauld editor used by GIT" .
 
-3) Listo , por ahora.
+* ![Atencion en la instalacion de GIT](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/instal-soft-git.png)
+
+Es importante que en el selector elijas la opcion de "Use Visual Studio Code as Git`s default editor". Aclarado eso , podes seguir con la instalacion.
+
+4) Listo , por ahora.
 
 ## Preparar la terminal de Visual Studio Code para ejecutar comandos:
 
