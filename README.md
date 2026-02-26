@@ -207,13 +207,21 @@ Ahora y por fin vamos a desplegar la aplicación de nuestras repositorio remoto 
 1) Ve a tu repositorio en github.
 
 2) En la barra horizontal superior selecciona la opción de "Settings" .
+* ![Despliegue de la app](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/desplegar-app-github-page-2.png)
 
 3) En el menú vertical izquierdo selecciona la opción de "Pages" .
+* ![Despliegue de la app](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/desplegar-app-github-page-3.png)
 
 4) El texto de "Build and deployment - source" , el selector tiene que estar en "Deploy from a branch" .
+* ![Despliegue de la app](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/desplegar-app-github-page-4.png)
 
 5) Y en "Branch" , el selector de la rama tiene que estar en "main" , y el selector de folder tienen que estar en "root".
+* ![Despliegue de la app](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/desplegar-app-github-page-5-1.png)
+* ![Despliegue de la app](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/desplegar-app-github-page-5-2.png)
 
 6) Guardamos los cambios de Branch haciendo clic en "Save" .
+* ![Despliegue de la app](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/desplegar-app-github-page-6.png)
 
 7) Una vez hecho todo esto si es que lo leamos hacia arriba nos aparecerá una URL que nos permitirá desplegar nuestra aplicación en internet , y esta misma podemos compartirlo con cualquier persona.
+* ![Despliegue de la app](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/desplegar-app-github-page-7-1.png)
+* ![Despliegue de la app](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/desplegar-app-github-page-7-2.png)
