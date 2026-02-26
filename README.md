@@ -162,8 +162,10 @@ Es importante que en el selector elijas la opcion de "Use Visual Studio Code as 
 1) Abre tu aplicación en Visual Studio Code.
 
 2) Selecciona la "Terminal" donde podras escribir tus comandos de GIT.
+* ![Preparando la terminal](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/terminal-vsc-2.png)
 
 3) Configura la "Terminal" en "Git Bash".
+* ![Preparando la terminal](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/terminal-vsc-3.png)
 
 ## Subir mi aplicacion a mi repositorio de Github:
 Ingrésa los comandos:
