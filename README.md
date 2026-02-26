@@ -119,3 +119,90 @@ https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua
 
 10) Y listo, la aplicación se ejecutara correctamente.
 * ![Ejecucion de la parte 10](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/ejecucion-app-10.png)
+
+---
+
+# PASOS PARA DESPLEGAR LA APLICACION
+
+## Crearse una cuenta y repositorio en Github:
+1) ve al sitio web de github: https://github.com/
+
+2) seleccione la opción "Sing up".
+
+3) Escoge el metodo que quieras para crear tu cuenta.
+
+4) Una vez creada crea un "nuevo repositorio".
+
+5) Colocale un nombre a tu repositorio , y asegurate de que sea publico.
+
+6) Asegurate de que siempre este en la rama "main" .(para evitar evitar problemas de sincronizacion con GIT)
+
+7) Listo por ahora.
+
+## Instalación del software de Git:
+
+1) Ingresa a la pagina de GIT: https://git-scm.com/
+
+2) Descarga y instala GIT siguiendo los pasos que del instalador.
+ !!ATENCION!! , cuando llegues a la opcion de "Choosing the defauld editor used by GIT" , es importante que en el selector elijas la opcion de "Use Visual Studio Code as Git`s default editor". Aclarado eso , podes seguir con la instalacion.
+
+3) Listo , por ahora
+
+## Preparar la terminal de Visual Studio Code para ejecutar comandos:
+
+1) Abre tu aplicación en Visual Studio Code.
+
+2) Selecciona la "Terminal" donde podras escribir tus comandos de GIT.
+
+3) Configura la "Terminal" en "Git Bash".
+
+## Subir mi aplicacion a mi repositorio de Github:
+Ingrésa los comandos:
+1) conecta Git a tu cuenta de Github:
+* git config --global user.name "Nombre_de_usuario"
+* git config --global user.email "TU_EMAIL_DE_GITHUB@gmail.com"
+(con este paso completado tu cuenta estarás asociada)
+
+2) hacer que todos los repositorios locales empiecen en la rama main:
+* git config --global init.defaultBranch main
+
+3) Crea un repositorio local
+* git init
+
+4) Conecta con tu repositorio remoto
+* git remote add origin https://github.com/TU-USUARIO/TU-REPOSITORIO.git
+(este link se encuentra en tu repositorio en el selector de "code")
+
+5) verifica que esté conectado correctamente.
+* git remote -v
+
+6) Mira los archivos de la aplicación.
+* git status
+
+7) selecciona todos los archivos de tu aplicación
+* git add .
+
+8) crea un cómmit.
+* git commit -m "(crea un cómmit muy claro)"
+
+9) Pushea tus archivos.
+* git push -u origin main (esto se hace una sola vez)
+* git push (esto puedes hacerlo todas las veces que quieras)
+
+10) Listo , ahora todos tus archivos se encuentran en todo repositorio remoto de Github.
+
+## Desplegar la aplicación en github Page
+Ahora y por fin vamos a desplegar la aplicación de nuestras repositorio remoto en Github Page , para eso tenemos que seguir siguientes pasos:
+1) Ve a tu repositorio en github
+
+2) En la barra horizontal superior selecciona la opción de "Settings"
+
+3) En el menú vertical izquierdo selecciona la opción de "Pages"
+
+4) El texto de "Build and deployment - source" , el selector tiene que estar en "Deploy from a branch"
+
+5) Y en "Branch" , el selector de la rama tiene que estar en "main" , y el selector de folder tienen que estar en "root".
+
+6) Guardamos los cambios de Branch haciendo clic en "Save"
+
+7) Una vez hecho todo esto si es que lo leamos hacia arriba nos aparecerá una URL que nos permitirá desplegar nuestra aplicación en internet , y esta misma podemos compartirlo con cualquier persona.
