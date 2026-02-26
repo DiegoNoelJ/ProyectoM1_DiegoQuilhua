@@ -128,14 +128,19 @@ https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua
 1) ve al sitio web de github: https://github.com/
 
 2) seleccione la opción "Sing up".
+* ![Cuenta github](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/crear-cuenta-github-2.png) 
 
 3) Escoge el metodo que quieras para crear tu cuenta.
+* ![Cuenta github](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/crear-cuenta-github-3.png) 
 
 4) Una vez creada , crea un "nuevo repositorio".
+* ![Cuenta github](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/crear-cuenta-github-4.png) 
 
 5) Colocale un nombre a tu repositorio , y asegurate de que sea publico.
+* ![Cuenta github](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/crear-cuenta-github-5.png) 
 
 6) Asegurate de que siempre este en la rama "main" .(para evitar evitar problemas de sincronizacion con GIT)
+* ![Cuenta github](https://github.com/DiegoNoelJ/ProyectoM1_DiegoQuilhua/blob/main/Images/crear-cuenta-github-6.png) 
 
 7) Listo por ahora.
 
